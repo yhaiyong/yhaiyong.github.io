@@ -1,0 +1,17 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Young1.0</title>
+        <link>http://yahiyong.github.io/</link>
+        <description>This is my cool site</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Tue, 09 Aug 2022 10:15:18 &#43;0800</lastBuildDate>
+            <atom:link href="http://yahiyong.github.io/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>First</title>
+    <link>http://yahiyong.github.io/posts/first/</link>
+    <pubDate>Tue, 09 Aug 2022 10:15:18 &#43;0800</pubDate>
+    <author>xxxx</author>
+    <guid>http://yahiyong.github.io/posts/first/</guid>
+    <description><![CDATA[First ]]></description>
+</item>
+</channel>
+</rss>
