@@ -2,8 +2,9 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>http://yahiyong.github.io/posts/first/</loc><lastmod>2022-08-09T10:15:18&#43;08:00</lastmod></url><url>
-            <loc>http://yahiyong.github.io/posts/</loc><lastmod>2022-08-09T10:15:18&#43;08:00</lastmod></url><url>
-            <loc>http://yahiyong.github.io/</loc><lastmod>2022-08-09T10:15:18&#43;08:00</lastmod></url><url>
-            <loc>http://yahiyong.github.io/categories/</loc></url><url>
-            <loc>http://yahiyong.github.io/tags/</loc></url></urlset>
+            <loc>http://yhaiyong.github.io/posts/</loc><lastmod>2022-08-09T10:45:42&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://yhaiyong.github.io/second_post/</loc><lastmod>2022-08-09T10:45:42&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://yhaiyong.github.io/</loc><lastmod>2022-08-09T10:45:42&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://yhaiyong.github.io/first/</loc><lastmod>2022-08-09T10:15:18&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://yhaiyong.github.io/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://yhaiyong.github.io/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
