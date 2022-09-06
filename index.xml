@@ -3,23 +3,31 @@
         <title>Young2.0</title>
         <link>http://yhaiyong.github.io/</link>
         <description>欢迎来到我的博客网站</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Tue, 09 Aug 2022 10:45:42 &#43;0800</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Tue, 06 Sep 2022 20:22:55 &#43;0800</lastBuildDate>
             <atom:link href="http://yhaiyong.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
-    <title>Second_post</title>
-    <link>http://yhaiyong.github.io/second_post/</link>
-    <pubDate>Tue, 09 Aug 2022 10:45:42 &#43;0800</pubDate>
+    <title>Spring第一天</title>
+    <link>http://yhaiyong.github.io/spring%E7%AC%AC%E4%B8%80%E5%A4%A9/</link>
+    <pubDate>Tue, 06 Sep 2022 20:22:55 &#43;0800</pubDate>
     <author>Young</author>
-    <guid>http://yhaiyong.github.io/second_post/</guid>
-    <description><![CDATA[Second ]]></description>
+    <guid>http://yhaiyong.github.io/spring%E7%AC%AC%E4%B8%80%E5%A4%A9/</guid>
+    <description><![CDATA[一、Spring简介 1 Spring介绍 问题导入 我们为什么要学习Spring框架？ 1.1 为什么要学 Spring技术是JavaEE开发必备技能，企业]]></description>
 </item>
 <item>
-    <title>First</title>
-    <link>http://yhaiyong.github.io/first/</link>
-    <pubDate>Tue, 09 Aug 2022 10:15:18 &#43;0800</pubDate>
+    <title>MySql</title>
+    <link>http://yhaiyong.github.io/mysql/</link>
+    <pubDate>Sat, 06 Nov 2021 18:48:24 &#43;0800</pubDate>
     <author>Young</author>
-    <guid>http://yhaiyong.github.io/first/</guid>
-    <description><![CDATA[First ]]></description>
+    <guid>http://yhaiyong.github.io/mysql/</guid>
+    <description><![CDATA[MySQL MySQL安装 安装包 到官网下载安装包 设置环境变量 新建配置文件 新建my.ini文件,如下 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 [mysql] # 设置my]]></description>
+</item>
+<item>
+    <title>Git</title>
+    <link>http://yhaiyong.github.io/git/</link>
+    <pubDate>Mon, 06 Sep 2021 20:38:40 &#43;0800</pubDate>
+    <author>Young</author>
+    <guid>http://yhaiyong.github.io/git/</guid>
+    <description><![CDATA[Git git bash 命令 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 基本Linux命令行使用 1）、cd : 改变目录。 2）、cd . . 回退到上一个目录，直接cd进入默认目]]></description>
 </item>
 </channel>
 </rss>
