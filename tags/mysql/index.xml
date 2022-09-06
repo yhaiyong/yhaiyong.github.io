@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>mysql - Tag - Young2.0</title>
+        <link>http://yhaiyong.github.io/tags/mysql/</link>
+        <description>mysql - Tag - Young2.0</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sat, 06 Nov 2021 18:48:24 &#43;0800</lastBuildDate><atom:link href="http://yhaiyong.github.io/tags/mysql/" rel="self" type="application/rss+xml" /><item>
+    <title>MySql</title>
+    <link>http://yhaiyong.github.io/mysql/</link>
+    <pubDate>Sat, 06 Nov 2021 18:48:24 &#43;0800</pubDate>
+    <author>Young</author>
+    <guid>http://yhaiyong.github.io/mysql/</guid>
+    <description><![CDATA[MySQL MySQL安装 安装包 到官网下载安装包 设置环境变量 新建配置文件 新建my.ini文件,如下 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 [mysql] # 设置my]]></description>
+</item>
+</channel>
+</rss>
